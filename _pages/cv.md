@@ -11,13 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computing, Poznan University of Technology, 2013-2017
-* B.Sc. in Physics, Adam Mickiewicz University, 2015-2017
 * MMath in Combinatorics & Optimization (Quantum Information), University of Waterloo, 2017-2019 (expected)
+* B.Sc. in Physics, Adam Mickiewicz University, 2015-2017
+* B.Eng. in Computing, Poznan University of Technology, 2013-2017
+
 
 Work experience
 ======
 * 2017-...: Research Assistant
+  * University of Waterloo (Institute for Quantum Computing)
+  * Duties included: research
+  * Supervisor: Professor Debbie Leung
+  
+* Jun-Aug 2017: Research Intern
+  * National University of Singapore (Centre for Quantum Technologies)
+  * Duties included: research
+  * Supervisor: Professor Dagomir Kaszlikowski
+  
+* Jun-Aug 2016: Undergraduate Research Assistant
   * University of Waterloo (Institute for Quantum Computing)
   * Duties included: research
   * Supervisor: Professor Debbie Leung
