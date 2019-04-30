@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Optimization"
 collection: teaching
 type: "Introduction to Optimization"
 permalink: /teaching/2019-winter-teaching
