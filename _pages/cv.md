@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* MMath in Combinatorics & Optimization (Quantum Information), University of Waterloo, 2017-2019 (expected)
+* PhD in Computer Science, National University of Singapore and Centre for Quantum Technologies, 2019-2023 (expected)
+* MMath in Combinatorics & Optimization (Quantum Information), University of Waterloo, 2017-2019
 * B.Sc. in Physics, Adam Mickiewicz University, 2015-2017
 * B.Eng. in Computing, Poznan University of Technology, 2013-2017
 
