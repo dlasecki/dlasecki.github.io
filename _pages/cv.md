@@ -33,6 +33,18 @@ Work experience
   * University of Waterloo (Institute for Quantum Computing)
   * Duties included: research
   * Supervisor: Professor Debbie Leung
+  
+Scholarships and awards
+======  
+* Singapore International Graduate Award (SINGA) [2019-2023]
+  * Awarded by the Agency for Science, Technology & Research (A*STAR). 
+  * For tuition and living expenses during PhD studies at the National University of Singapore.
+* Master's student scholarship [2017-2019]
+  * Awarded by the University of Waterloo in Canada.
+  * For tuition and living expenses during Master's studies at the  Department of Combinatorics & Optimization. 
+* Undegraduate Research Award [2016]
+  * Awarded by the Institute for Quantum Computing at the University of Waterloo in Canada.
+  * For a summer research internship. 
 
 Publications
 ======
