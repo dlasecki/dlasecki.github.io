@@ -1,10 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Classical Machine Learning for Quantum Systems and
+Quantum Enhanced Machine Learning"
 collection: publications
 permalink: /publication/ml_paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'TBA'
 paperurl: 'http://dlasecki.github.io/files/ml.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+TBA
 
 [Download paper here](http://dlasecki.github.io/files/ml.pdf)
