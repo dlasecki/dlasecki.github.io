@@ -6,5 +6,9 @@ author_profile: true
 ---
 
 
-  Article 1 <u><a href="{https://dlasecki.github.io/files/ml.pdf}">Article1</a>.</u>
+{% include base_path %}
+
+{% for post in site.publicationss reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
