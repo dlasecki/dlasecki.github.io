@@ -45,12 +45,6 @@ Scholarships and awards
 * Undegraduate Research Award [2016]
   * Awarded by the Institute for Quantum Computing at the University of Waterloo in Canada.
   * For a summer research internship. 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
