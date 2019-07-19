@@ -44,16 +44,4 @@ Scholarships and awards
   * For tuition and living expenses during Master's studies at the  Department of Combinatorics & Optimization. 
 * Undegraduate Research Award [2016]
   * Awarded by the Institute for Quantum Computing at the University of Waterloo in Canada.
-  * For a summer research internship. 
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * For a summer research internship.
