@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Dariusz Lasecki's home on the web!
+My research interests include:
+
+1. Quantum entanglement theory.
+
+2. Quantum communication theory.
+
+3. Quantum algorithms theory.
+
+4. Optimization theory and applications.
