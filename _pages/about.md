@@ -11,7 +11,7 @@ redirect_from:
 My research interests include:
 
 1. Quantum entanglement theory.
-![Quantum entanglement theory](files/entanglement.jpg =100x100 "Quantum entanglement theory")
+<img src="files/entanglement.jpg" alt="Quantum entanglement" width="100"/>
 2. Quantum communication theory.
 
 3. Quantum algorithms theory.
