@@ -10,18 +10,18 @@ redirect_from:
 
 My research interests include:
 
-1. Quantum entanglement theory.
+## 1. Quantum entanglement theory.
 
-<img src="files/entanglement.jpg" alt="Quantum entanglement" width="300"/>
+<img src="files/entanglement.jpg" alt="Quantum entanglement" width="350"/>
 
-2. Quantum communication theory.
+## 2. Quantum communication theory.
 
-<img src="files/channel.png" alt="Quantum communication" width="300"/>
+<img src="files/channel.png" alt="Quantum communication" width="350"/>
 
-3. Quantum algorithms theory.
+## 3. Quantum algorithms theory.
 
-<img src="files/Shor's_algorithm.svg" alt="Quantum algorithms" width="300"/>
+<img src="files/Shor's_algorithm.svg" alt="Quantum algorithms" width="350"/>
 
-4. Optimization theory and applications.
+## 4. Optimization theory and applications.
 
-<img src="files/Convex_cone_illust.svg.png" alt="Optimization" width="300"/>
+<img src="files/Convex_cone_illust.svg.png" alt="Optimization" width="350"/>
