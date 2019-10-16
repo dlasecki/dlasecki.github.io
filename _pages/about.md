@@ -14,13 +14,15 @@ My research interests include:
 
 <img src="files/entanglement.jpg" alt="Quantum entanglement" width="350"/>
 
-<sub><sup>Credit: MARK GARLICK/SCIENCE PHOTO LIBRARY/Getty Images</sup></sub>
+<sub><sup>Image credit: MARK GARLICK/SCIENCE PHOTO LIBRARY/Getty Images</sup></sub>
 
 ## 2. Quantum communication theory.
 
 <img src="files/channel.png" alt="Quantum communication" width="350"/>
 
-<sub><sup>Credit: D. Leung, W. Matthews [<a href="https://arxiv.org/pdf/1406.7142v2.pdf">Arxiv link</a>]</sup></sub>
+<sub><sup>Image credit: D. Leung, W. Matthews [<a href="https://arxiv.org/pdf/1406.7142v2.pdf">Arxiv link</a>]</sup></sub>
+
+I am interested in fundamental limits of quantum transmission, especially capacities of quantum channels, and non-classical phenomena that emerge in this setting, e.g. superactivation of quantum channel capacities.
 
 ## 3. Quantum algorithms theory.
 
@@ -31,3 +33,5 @@ My research interests include:
 ## 4. Optimization theory and applications.
 
 <img src="files/Convex_cone_illust.svg.png" alt="Optimization" width="350"/>
+
+I am interested in formulating various problems as optimization tasks and using optimization theory to reason about them. I appreciate applications of semidefinite optimization in quantum information theory.
