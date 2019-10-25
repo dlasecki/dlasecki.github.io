@@ -16,6 +16,8 @@ My research interests include:
 
 <sub><sup>Image credit: MARK GARLICK/SCIENCE PHOTO LIBRARY/Getty Images</sup></sub>
 
+I am interested in fundamental properties of quantum entanglement as well as entanglement as a resource in communication scenarios. My Masters thesis considered the embezzlement of entanglement and contributed a noisy version of this protocol and applications to the dilution of entanglement - a fundamental protocol in entanglement theory.
+
 ## 2. Quantum communication theory.
 
 <img src="files/channel.png" alt="Quantum communication" width="350"/>
