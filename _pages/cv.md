@@ -18,6 +18,12 @@ Education
 
 Work experience
 ======
+* 2019-now: Associate Software Engineer
+  * TomTom
+  * Part of the team developing high definition maps for autonomous driving.
+  * I initiated a project with Microsoft to use quantum computers in autonomous driving.
+  * I use mathematics, Java and Python to deliver smooth and accurate trajectories for fully autonomous vehicles.
+
 * 2017-2019: Research Assistant
   * University of Waterloo (Institute for Quantum Computing)
   * Duties: research on the embezzlement of entanglement and entanglement dilution
