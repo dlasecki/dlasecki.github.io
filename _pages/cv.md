@@ -18,19 +18,19 @@ Education
 
 Work experience
 ======
-* 2017-...: Research Assistant
+* 2017-2019: Research Assistant
   * University of Waterloo (Institute for Quantum Computing)
-  * Duties included: research
+  * Duties: research on the embezzlement of entanglement and entanglement dilution
   * Supervisor: Professor Debbie Leung
   
 * Jun-Aug 2017: Research Intern
   * National University of Singapore (Centre for Quantum Technologies)
-  * Duties included: research
+  * Duties: research on quantum self-testing
   * Supervisor: Professor Dagomir Kaszlikowski
   
 * Jun-Aug 2016: Undergraduate Research Assistant
   * University of Waterloo (Institute for Quantum Computing)
-  * Duties included: research
+  * Duties: research on the quantum capacity of the quantum depolarizing channel
   * Supervisor: Professor Debbie Leung
   
 Scholarships and awards
@@ -41,3 +41,15 @@ Scholarships and awards
 * Undegraduate Research Award [2016]
   * Awarded by the Institute for Quantum Computing at the University of Waterloo in Canada.
   * For a summer research internship.
+  
+Other activities
+====== 
+* Undergraduate School on Experimental Quantum Information Processing (USEQIP 2016)
+  * Institute for Quantum Computing in Canada
+  * 2-week program with lectures and hands-on labs
+* Quantum Cryptography School for Young Students (QCSYS 2013)
+  * Institute for Quantum Computing in Canada
+  * 1-week program with lectures and hands-on labs
+* International Summer School for Young Physicists (ISSYP 2012)
+  * Perimeter Institute for Theoretical Physics
+  * 2-week program with lectures
