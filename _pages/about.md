@@ -16,7 +16,7 @@ My research interests include:
 
 <sub><sup>Image credit: MARK GARLICK/SCIENCE PHOTO LIBRARY/Getty Images</sup></sub>
 
-I am interested in fundamental properties of quantum entanglement as well as entanglement as a resource in communication scenarios. My Masters thesis considered the embezzlement of entanglement and contributed a noisy version of this protocol and applications to the dilution of entanglement - a fundamental protocol in entanglement theory.
+Interested in fundamental properties of quantum entanglement as well as entanglement as a resource in communication scenarios. My Masters thesis considered the embezzlement of entanglement and contributed a noisy version of this protocol and applications to the dilution of entanglement - a fundamental protocol in entanglement theory.
 
 ## 2. Quantum communication theory.
 
@@ -24,7 +24,7 @@ I am interested in fundamental properties of quantum entanglement as well as ent
 
 <sub><sup>Image credit: D. Leung, W. Matthews [<a href="https://arxiv.org/pdf/1406.7142v2.pdf">Arxiv link</a>]</sup></sub>
 
-I am interested in fundamental limits of quantum transmission, especially capacities of quantum channels, and non-classical phenomena that emerge in this setting, e.g. superactivation of quantum channel capacities.
+Interested in fundamental limits of quantum transmission, especially capacities of quantum channels, and non-classical phenomena that emerge in this setting, e.g. superactivation of quantum channel capacities.
 
 ## 3. Quantum algorithms theory.
 
@@ -32,8 +32,10 @@ I am interested in fundamental limits of quantum transmission, especially capaci
 
 <sub><sup>Bender2k14 [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>],[<a href="https://commons.wikimedia.org/wiki/File:Shor%27s_algorithm.svg">via Wikimedia Commons</a>]</sup></sub>
 
+Interested in theoretical limits of quantum computers, development of quantum algorithms and using existing quantum algorithms to solve domain-specific problems. Currently exploring applications of quantum computers in autonomous driving.
+
 ## 4. Optimization theory and applications.
 
 <img src="files/Convex_cone_illust.svg.png" alt="Optimization" width="350"/>
 
-I am interested in formulating various problems as optimization tasks and using optimization theory to reason about them. I appreciate applications of semidefinite optimization in quantum information theory.
+Interested in formulating various problems as optimization tasks and using optimization theory to reason about them. Enthusiast of using semidefinite optimization in quantum information theory.
