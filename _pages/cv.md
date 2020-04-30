@@ -26,15 +26,19 @@ Work experience
 
 * 2017-2019: Research Assistant at the University of Waterloo (Institute for Quantum Computing)
   * Duties: research on the embezzlement of entanglement and entanglement dilution
-  * Supervisor: Professor Debbie Leung
+  * Supervisor: Professor [Debbie Leung](https://scholar.google.com/citations?user=U8igvVgAAAAJ&hl=en)
   
 * Jun-Aug 2017: Research Intern at the National University of Singapore (Centre for Quantum Technologies)
   * Duties: research on quantum self-testing
-  * Supervisor: Professor Dagomir Kaszlikowski
+  * Supervisor: Professor [Dagomir Kaszlikowski](https://scholar.google.com/citations?user=YcJsslsAAAAJ&hl=en)
   
 * Jun-Aug 2016: Undergraduate Research Assistant at the University of Waterloo (Institute for Quantum Computing)
   * Duties: research on the quantum capacity of the quantum depolarizing channel
-  * Supervisor: Professor Debbie Leung
+  * Supervisor: Professor [Debbie Leung](https://scholar.google.com/citations?user=U8igvVgAAAAJ&hl=en)
+  
+* 2014-2016: Undergraduate Research Assistant at the Adam Mickiewicz University in Poland
+  * Duties: research on information gain versus disturbance trade-off in quantum mechanics and no-signaling probability theories
+  * Supervisor: Professor [Andrzej Grudka](https://scholar.google.pl/citations?user=HTCLrPQAAAAJ&hl=pl)
   
 Scholarships, grants and awards
 ======  
