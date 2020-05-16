@@ -12,7 +12,7 @@ My research interests include:
 
 ## 1. Quantum algorithms.
 
-<img src="files/Shor's_algorithm.svg" alt="Quantum algorithms" width="360"/>
+<img src="files/Shor's_algorithm.svg" alt="Quantum algorithms" width="370"/>
 
 <sub><sup>Bender2k14 [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>],[<a href="https://commons.wikimedia.org/wiki/File:Shor%27s_algorithm.svg">via Wikimedia Commons</a>]</sup></sub>
 
@@ -36,6 +36,6 @@ Interested in fundamental limits of quantum transmission, especially capacities 
 
 ## 4. Optimization theory and applications.
 
-<img src="files/Convex_cone_illust.svg.png" alt="Optimization" width="33"/>
+<img src="files/Convex_cone_illust.svg.png" alt="Optimization" width="330"/>
 
 Interested in formulating various problems as optimization tasks and using optimization theory to reason about them. In my theses, I used linear optimization in the context of embezzlement of entanglement and semidefinite and linear optimization in the context of the capacity of the quantum depolarizing channel.
