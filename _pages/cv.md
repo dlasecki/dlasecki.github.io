@@ -12,13 +12,19 @@ redirect_from:
 Education
 ======
 * MMath in Combinatorics & Optimization (Quantum Information), University of Waterloo, 2017-2019
+  * Thesis: Noisy Embezzlement of Entanglement and Applications to Entanglement Dilution. [[link]](https://uwspace.uwaterloo.ca/handle/10012/14682)
+  * Supervisor: Debbie Leung, PhD
 * B.Sc. in Physics, Adam Mickiewicz University, 2015-2017
+  * Thesis: Quantum Capacity of the Quantum Depolarizing Channel. [[link]](http://dlasecki.github.io/files/thesis.pdf)
+  * Supervisors: Andrzej Grudka, PhD; Debbie Leung, PhD
 * B.Eng. in Computing, Poznan University of Technology, 2013-2017
+  * Thesis: Integrated Development Environment for Automatic Verification, Synthesis and Improvement of Software. [[link]](http://dlasecki.github.io/files/ug_thesis_put.pdf)
+  * Supervisor: Krzysztof Krawiec, PhD
 
 
 Work experience
 ======
-* 2019-now: Associate Software Engineer at TomTom
+* 2019-now: Associate Software Engineer at [TomTom](https://www.tomtom.com/)
   * Part of the unit working on high quality 3D maps for autonomous driving.
   * Technical leader and software engineer in a Java project on calculating worldwide positional corrections due to continental drifts for maps. Made major contributions to system design, developed mathematical models and implemented core algorithms. Successfully delivered a related proof-of-concept solution for a major automotive brand.
   * Designed and implemented quality metrics in Java that helped managers choose efficient and accurate smoothing algorithm for a trajectory smoothing product.
